@@ -1,0 +1,36 @@
+/*nav bar con fondo de jeans*/
+.navbar.navbar-jeans {
+  background-color:  #ffffff;
+  color: #020202;
+}
+.navbar.navbar-jeans .navbar-form .form-group input.form-control::-moz-placeholder,
+.navbar.navbar-jeans .navbar-form input.form-control::-moz-placeholder {
+  color: #020202;
+}
+.navbar.navbar-jeans .navbar-form .form-group input.form-control:-ms-input-placeholder,
+.navbar.navbar-jeans .navbar-form input.form-control:-ms-input-placeholder {
+  color: #020202;
+}
+.navbar.navbar-jeans .navbar-form .form-group input.form-control::-webkit-input-placeholder,
+.navbar.navbar-jeans .navbar-form input.form-control::-webkit-input-placeholder {
+  color: #020202;
+}
+.navbar.navbar-jeans .dropdown-menu {
+  border-radius: 3px !important;
+}
+.navbar.navbar-jeans .dropdown-menu li > a:hover, .navbar.navbar-jeans .dropdown-menu li > a:focus {
+  color: #020202;
+    background-color:  #ffffff;
+
+
+}
+.navbar.navbar-jeans .dropdown-menu .active > a {
+      background-color:  #ffffff;
+      color: #020202;
+}
+.navbar.navbar-jeans .dropdown-menu .active > a:hover, .navbar.navbar-jeans .dropdown-menu .active > a:focus {
+  color: #020202;
+}
+.navbar.navbar-jeans .fa{
+  color: #020202;
+}
